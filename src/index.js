@@ -92,5 +92,5 @@ const lazyLoad = entry => {
 
 //eventListeners
 refForm.addEventListener('submit', observerWatch);
-refButtonLoad.addEventListener('click', observerWatch);
+// refButtonLoad.addEventListener('click', observerWatch);
 refGallery.addEventListener('click', showLargeImage);
